@@ -1,0 +1,1 @@
+display dialog "Hi" buttons {"OK"} default button "OK"
